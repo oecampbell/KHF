@@ -10,9 +10,9 @@
 <a href="https://dashingcode.github.io/front-cover/">Live demo page</a>
 
 ## Credits
-The background image that was used as an example comes from Tom Hall.
-You can find it on <a href="https://flic.kr/p/pqEPBb">Flickr</a>.
-It's licensed under Creative-Commons.
+The background image that was used is from as an example comes from Unsplash.
+You can find it on <a href="https://unsplash.com/">Unsplash</a>.
+It's licensed under Creative Commons Zero.
 
 This theme makes use of the amazing <a href="http://fontawesome.io/">Font Awesome</a> icons.
 
