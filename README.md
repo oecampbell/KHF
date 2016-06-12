@@ -6,11 +6,11 @@
 * MIT licensed.
 
 
-## See it in action
+## View orginal demo of jekyll theme here
 <a href="https://dashingcode.github.io/front-cover/">Live demo page</a>
 
 ## Credits
-The background image that was used is from as an example comes from Unsplash.
+The background image that was used comes from Unsplash.
 You can find it on <a href="https://unsplash.com/">Unsplash</a>.
 It's licensed under Creative Commons Zero.
 
